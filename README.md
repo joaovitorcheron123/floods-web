@@ -3,10 +3,10 @@ A aplicação se encontra em [Floods](https://floods-web.web.app/).
 
 ## Telas
 ### Tela de autenticação
-![Tela de autenticação](https://github.com/joaovitorcheron123/ecoleta_nlw-starter_rocketseat/blob/master/1.PNG)
+![Tela de autenticação](https://github.com/joaovitorcheron123/floods-web/blob/main/src/img/1.png)
 
 ### Tela principal
-![Tela principal](https://github.com/joaovitorcheron123/ecoleta_nlw-starter_rocketseat/blob/master/1.PNG)
+![Tela principal](https://github.com/joaovitorcheron123/floods-web/blob/main/src/img/2.png)
 
 ## Scripts do projeto
 
