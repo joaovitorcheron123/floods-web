@@ -1,14 +1,13 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBZdUdzvpeJ0ZEhY4CK4foaaJ0iUD57ubU",
-    authDomain: "floods-f905e.firebaseapp.com",
-    projectId: "floods-f905e",
-    storageBucket: "floods-f905e.appspot.com",
-    messagingSenderId: "184786996044",
-    appId: "1:184786996044:web:d2918a749af4605bfa5de9",
-    measurementId: "G-HCWKGJM9JC"
-  };
+  apiKey: "AIzaSyBVIj1qx6BWAdtnLgZSbmNv0Dlp9Xx9AtU",
+  authDomain: "floods-web.firebaseapp.com",
+  projectId: "floods-web",
+  storageBucket: "floods-web.appspot.com",
+  messagingSenderId: "978059909266",
+  appId: "1:978059909266:web:f6aa0a48656e5fd18c6e4b"
+};
   
   const firebaseApp = firebase.initializeApp(firebaseConfig);
   const db = firebaseApp.firestore();

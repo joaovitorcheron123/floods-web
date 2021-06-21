@@ -19,7 +19,6 @@ function Login() {
           alt=""
         />
         <h1>Conectar ao Floods</h1>
-        {/* <p>slack.com</p> */}
         <Button onClick={signIn}>Entrar com o Google</Button>
       </LoginInnerContainer>
     </LoginContainer>
