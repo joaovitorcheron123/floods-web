@@ -9,7 +9,8 @@ export const SidebarOptionContainer = styled.div`
 
   :hover {
     opacity: 0.9;
-    background-color: #94A6AB;
+    color: #18ac52;
+    background-color: #a4ffc8;
   }
 
   > h3 {

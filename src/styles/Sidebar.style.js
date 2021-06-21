@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const SidebarContainer = styled.div`
-  color: white;
+  color:  #797979;
   background-color: var(--floods-color);
   flex: 0.3;
   border-top: 1px solid var(--floods-color-secondary);
@@ -19,10 +19,11 @@ export const SidebarHeader = styled.div`
   display: flex;
   border-top: 1px solid var(--floods-color-secondary);
   padding: 13px;
+  color: #535353;
 
   > .MuiSvgIcon-root {
     padding: 8px;
-    color: var(--floods-color-secondary);
+    color:  #18ac52;
     font-size: 18px;
     background-color: white;
     border-radius: 999px;

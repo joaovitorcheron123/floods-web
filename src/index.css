@@ -2,8 +2,8 @@
   margin: 0;
 }
 body {
-  --floods-color: #2E5D4E;
-  --floods-color-secondary: #254e41;
+  --floods-color: #eeeeee;
+  --floods-color-secondary:    #eeeeee ;
   overflow: hidden;
 
   margin: 0;
