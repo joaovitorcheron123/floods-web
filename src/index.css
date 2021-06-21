@@ -3,7 +3,9 @@
 }
 body {
   --floods-color: #eeeeee;
-  --floods-color-secondary:    #eeeeee ;
+  --floods-color-secondary: #e1e1e1;
+  background-color: #e1e1e1;
+  color: #2c2c2c;
   overflow: hidden;
 
   margin: 0;

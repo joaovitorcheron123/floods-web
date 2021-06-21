@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const SidebarContainer = styled.div`
-  color:  #797979;
+  color: #5f5f5f;
   background-color: var(--floods-color);
   flex: 0.3;
   border-top: 1px solid var(--floods-color-secondary);
@@ -27,6 +27,14 @@ export const SidebarHeader = styled.div`
     font-size: 18px;
     background-color: white;
     border-radius: 999px;
+  }
+
+  :hover > .MuiSvgIcon-root {
+    cursor: pointer;
+    opacity: 0.9;
+    border-radius: 50%;
+    color: #18ac52;
+    background-color: #a4ffc8;
   }
 `;
 

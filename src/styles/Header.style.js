@@ -32,7 +32,9 @@ export const HeaderRight = styled.div`
   :hover > .MuiSvgIcon-root {
     cursor: pointer;
     opacity: 0.9;
+    border-radius: 50%;
     color: #18ac52;
+    background-color: #a4ffc8;
   }
 `;
 
